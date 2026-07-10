@@ -1,5 +1,7 @@
 # Temporary external usability-test release
 
+**Release date:** 10 July 2026
+
 This is a short-lived, unpromoted static build for a narrow usability/comprehension
 test with one named tester. It does not collect, transmit, or persist any answers or
 personal data. It is not an admissions service, not a validated psychological test,
